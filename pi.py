@@ -1,3 +1,3 @@
 def suma(*num):
     return suma(num)
-print(suma(2,2,9))
+print(suma(2,2,3,120,1))
